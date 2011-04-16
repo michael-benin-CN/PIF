@@ -52,41 +52,41 @@
  \frame{\frametitle{Inhaltsverzeichnis}\tableofcontents[]}
 
  \section[Einleitung]{Einleitung}
- 
+
  %schönes Zitat aus dem Buch
  \begin{frame}
- 
- 
- \textsc{\flqq If you can't describe what you are doing as a process, you don't know what you are doing.\frqq} 
+
+
+ \textsc{\flqq If you can't describe what you are doing as a process, you don't know what you are doing.\frqq}
  \\
- \medskip 
+ \medskip
  \begin{flushright}
-	 \begin{small}
-		\emph{\textit{W. Edwards Deming, \\
- 				Amerikanischer Unternehmensberater \\
-				und Professor an der Columbia Universität}}
-	\end{small}
+   \begin{small}
+    \emph{\textit{W. Edwards Deming, \\
+        Amerikanischer Unternehmensberater \\
+        und Professor an der Columbia Universität}}
+  \end{small}
  \end{flushright}
- 
+
  \end{frame}
- 
+
  \begin{frame}
   \frametitle{Prozess. Prozesstypen. Prozessstruktur}
-  
+
   \textsc{Prozess} ist eine Folge von Aktivitäten zur Erstellung einer Leistung mit einem Anfang, einem Ende und einem Ziel.
 
-\bigskip 
+\bigskip
   \textsc{Prozesstypen}\\
   \begin{itemize}
-  	\item Kernprozess
-  	\item Steuerungsprozess
-  	\item Unterstützungsprozesse
+    \item Kernprozess
+    \item Steuerungsprozess
+    \item Unterstützungsprozesse
   \end{itemize}
 
 \bigskip
 
 \textsc{Prozessstruktur}
- 
+
 \end{frame}
 
 
@@ -95,41 +95,41 @@
  \section[Prozessketten]{Prozessketten}
  \begin{frame}
   \frametitle{Prozessstrukturanalyse}
-  
+
   Prozessstrukturanalyse beschreibt, welche Aktivitäten in welcher Reihenfolge von wem durchgeführt werden. Durch diese Analyse können die Prozessabläufe gut visualisiert werden. \\
     \end{frame}
 
   \begin{frame}
     \frametitle{Grunde der Analyse}
- 	 \begin{itemize}
-  		\item um herauszufinden, ob die Prozesse optimal gestaltet sind 
-  		\item um die Redundanzen und Irrläufer in der Struktur zu erkennen 
-  		\item um die Optimierungsansätze sinnvoll anwenden zu können
-  	\end{itemize}
+   \begin{itemize}
+      \item um herauszufinden, ob die Prozesse optimal gestaltet sind
+      \item um die Redundanzen und Irrläufer in der Struktur zu erkennen
+      \item um die Optimierungsansätze sinnvoll anwenden zu können
+    \end{itemize}
   \end{frame}
 
- 
+
  \begin{frame}
   \frametitle{Analysemethoden}
-  
+
   \begin{itemize}
- 	 \item Spaghetti-Diagramm
- 	 \begin{itemize}
- 	 	\item graphische Darstellung auf hohem Aggregationsniveau
- 	 	\item identifiziert wesentliche Prozessschwachstellen
- 	 	\item eignet sich für deren Optimierung
- 	 \end{itemize}
- 	 \bigskip
-  	\item Ereignisorientierte Prozesskette
-  	\begin{itemize}
- 	 	\item stellt Details von Prozessen dar
- 	 	\item Erkennt Detailprobleme
- 	 	\item eignet sich fürs deren Beseitigen
- 	 \end{itemize}
-  	
+   \item Spaghetti-Diagramm
+   \begin{itemize}
+    \item graphische Darstellung auf hohem Aggregationsniveau
+    \item identifiziert wesentliche Prozessschwachstellen
+    \item eignet sich für deren Optimierung
+   \end{itemize}
+   \bigskip
+    \item Ereignisorientierte Prozesskette
+    \begin{itemize}
+    \item stellt Details von Prozessen dar
+    \item Erkennt Detailprobleme
+    \item eignet sich fürs deren Beseitigen
+   \end{itemize}
+
   \end{itemize}
-  
-   
+
+
  \end{frame}
 
  \subsection[Spaghettidiagramme]{Spagehttidiagramme}
@@ -197,7 +197,7 @@
 
  \begin{frame}
   \frametitle{IBM-Kreditvergabe: Visualisierung}
-  $<$4.5/$>$
+  \includegraphics[scale=2.5]{4_5.png}
  \end{frame}
 
  \subsection{Optimierungsansätze}
@@ -214,112 +214,122 @@
  \end{frame}
 
  \begin{frame}
-  \frametitle{Entfall}
-  $<$4.6.1$>$
-  Trivialer Fall
+  \frametitle{Entfallen}
+   \begin{itemize}
+    \item Ansatz: Aktivität lohnt sich nicht.
+   \end{itemize}
+  \centerline{\includegraphics[scale=2.5]{4_6_1.png}}
   \begin{itemize}
-    \item Idee: Weglassen von Aktivitäten kann mehr als den ausfallenden Gewinn sparen.
-    \item Vorteil: Beschleunigung + Kostenersparnis
-    \item Nachteil: Geringer Nutzen entfällt
+    \item Vorteil: Beschleunigung und Kostenersparnis.
+    \item Nachteil: Geringer Nutzen entfällt.
   \end{itemize}
  \end{frame}
 
  \begin{frame}
   \frametitle{Beschleunigung}
-  $<$4.6.2$>$
-  klassische Optimierung
   \begin{itemize}
-    \item Idee: Aktivitäten können durch Standardisierung beschleunigt werden.
-    \item Vorteil: Qualitätssicherung
-    \item Nachteil: Weniger Gestaltungspielraum
+    \item Ansatz: Standardisierung führt zu Zeiteffizienz.
+  \end{itemize}
+  \centerline{\includegraphics[scale=2.5]{4_6_2.png}}
+  \begin{itemize}
+    \item Vorteil: Sicherstellung einer Mindestqualität.
+    \item Nachteil: Weniger Gestaltungspielraum.
   \end{itemize}
  \end{frame}
 
  \begin{frame}
   \frametitle{Zusammenlegung}
-  $<$4.6.3$>$
-  Reibungsverluste
   \begin{itemize}
-    \item Idee: Übergeben von Aufgaben kostet Zeit
-    \item Vorteil: Übertragungsfehler werden vermieden
-    \item Nachteil: Spezialisierungvorteile gehen verloren
+    \item Ansatz: Übergeben von Aufgaben dauert.
+  \end{itemize}
+  \centerline{\includegraphics[scale=2.5]{4_6_3.png}}
+  \begin{itemize}
+    \item Vorteil: Übertragungsfehler werden vermieden.
+    \item Nachteil: Spezialisierungvorteile gehen verloren.
   \end{itemize}
  \end{frame}
 
  \begin{frame}
   \frametitle{Automatisierung}
-  $<$4.6.4$>$
-  Langeweile
   \begin{itemize}
-    \item Idee: Routineaufgaben können automatisiert werden
-    \item Vorteil: mittelfristige Einsparungen
-    \item Nachteil: Automatisierung erzeugt hohe Investitionen
+    \item Ansatz: Routineaufgaben können automatisiert werden.
+  \end{itemize}
+  \centerline{\includegraphics[scale=2.5]{4_6_4.png}}
+  \begin{itemize}
+    \item Vorteil: Mittelfristige Einsparungen.
+    \item Nachteil: Automatisierung erfordert hohe Investitionen.
   \end{itemize}
  \end{frame}
 
  \begin{frame}
   \frametitle{Verlagerung}
-  $<$4.6.5$>$
-  Outsourcing
+    \begin{itemize}
+    \item Ansatz: Aktivitäten zwischen Akteuren verlagern.
+  \end{itemize}
+  \centerline{\includegraphics[scale=2.5]{4_6_5.png}}
   \begin{itemize}
-    \item Idee: Interne Abläufe mit externen Abhängigkeiten können ausgelagert werden
-    \item Vorteil: Abhängige können besser planen
-    \item Nachteil: Erhöhte Banspruchung von Externen
+    \item Vorteil: Akteure bekommen mehr Übersicht.
+    \item Nachteil: Verlagerte Beanspruchung der Akteure.
   \end{itemize}
  \end{frame}
 
  \begin{frame}
   \frametitle{Reihenfolge}
-  $<$4.6.6$>$
-  Defragmentierung
+    \begin{itemize}
+    \item Ansatz: Sequenzen von Aktivitäten umstellen.
+  \end{itemize}
+  \centerline{\includegraphics[scale=2.5]{4_6_6.png}}
   \begin{itemize}
-    \item Idee: Nicht alle Aktivitäten in einer Sequenz müssen auf ein ander folgen
-    \item Vorteil: Abhängige können besser planen
-    \item Nachteil: Erhöhte Beanspruchung von Externen
+    \item Vorteil: Erhöhte Flexibilität.
+    \item Nachteil: Aufgabenübergabe braucht evtl. Zeit.
   \end{itemize}
  \end{frame}
 
  \begin{frame}
   \frametitle{Parallelisierung}
-  $<$4.6.7$>$
-  Threading
+   \begin{itemize}
+    \item Ansatz: Nebenläufigkeit von Aktivitäten ausnutzen.
+   \end{itemize}
+  \centerline{\includegraphics[scale=2.5]{4_6_7.png}}
   \begin{itemize}
-    \item Idee: Einige Aktivitäten können nebenläufig passieren
-    \item Vorteil: Massive Zeiteinsparungen möglich
-    \item Nachteil: Höherer Koordinationsaufwand
+    \item Vorteil: Massive Zeiteinsparungen möglich.
+    \item Nachteil: Erhöhter Koordinationsaufwand.
   \end{itemize}
  \end{frame}
 
  \begin{frame}
   \frametitle{Vereinheitlichen der Verantwortung}
-  $<$4.6.8$>$
-  Idealzustand aus Sicht des Kunden
   \begin{itemize}
-    \item Idee: \glqq One Face To The Customer\grqq
-    \item Vorteil: Vermeiden von Übertragungsfehlern
-    \item Nachteil: Erhöhter Koodinationsaufwand
+    \item Ansatz: \glqq One Face To The Customer\grqq
+  \end{itemize}
+  \centerline{\includegraphics[scale=2.5]{4_6_8.png}}
+  \begin{itemize}
+    \item Vorteil: Vermeiden von Übertragungsfehlern.
+    \item Nachteil: Erhöhter Koodinationsaufwand.
   \end{itemize}
  \end{frame}
 
  \begin{frame}
   \frametitle{Arbeit in Interdisziplinären Teams}
-  $<$4.6.9$>$
-  Kooperation
   \begin{itemize}
-    \item Idee: In einer Gruppe können Experten mehr als allein.
-    \item Vorteil: Klare Aufgabe, Verantwortung und Anreize nötig.
-    \item Nachteil: Effiziente Kommunikation
+    \item Ansatz: Experten-Gruppe kann mehr als ihre Mitglieder.
+  \end{itemize}
+  \centerline{\includegraphics[scale=2.5]{4_6_9.png}}
+  \begin{itemize}
+    \item Vorteil: Effiziente Kommunikation.
+    \item Nachteil: Klare Aufgabe und Anreize nötig.
   \end{itemize}
  \end{frame}
 
  \begin{frame}
   \frametitle{Leistungsmessung}
-  $<$4.6.10$>$
-  Beeinflussen durch Beobachten
+   \begin{itemize}
+    \item Ansatz: Transparenz fördert Effizienz.
+   \end{itemize}
+  \centerline{\includegraphics[scale=2.5]{4_6_10.png}}
   \begin{itemize}
-    \item Idee: Transparenz fördert Effizienz.
-    \item Vorteil: Mitarbeiter optimierien ihre Aufgaben selbst
-    \item Nachteil: Systematische Transparenzmachung muss durchgehalten werden.
+    \item Vorteil: Mitarbeiter optimierien ihre Aufgaben selbst.
+    \item Nachteil: Veröffentlichung muss durchgehalten werden.
   \end{itemize}
  \end{frame}
 
@@ -329,10 +339,20 @@
 
  \end{frame}
 
- \subsection[Hintergründe]{Hintergründe}
- \begin{frame}
-  \frametitle{Hintergründe}
+% Quellen
 
+ \begin{frame}
+  \frametitle{Quelle}
+   \begin{itemize}
+    \item Inhaltlich und alle Grafiken nach:\\
+      Thonemann, Ulrich; Albers, Marco\\
+      Operations Management:\\
+      Konzepte, Methoden und Anwendungen\\
+      Ulrich Thonemann. Unter Mitarb. von Marc Albers ... \\
+      München [u.a.] : Pearson Studium, 2005. - 576 S.\\
+      Ill., graph. Darst., Kt.\\
+      Seite 153-163
+   \end{itemize}
  \end{frame}
 
 \end{document}
