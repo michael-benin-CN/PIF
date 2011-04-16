@@ -1,0 +1,94 @@
+\documentclass{beamer}
+
+\usepackage[ngerman]{babel}
+\usepackage[utf8]{inputenc}
+
+\usepackage{listings}
+\setbeamercovered{transparent}
+
+\usepackage[percent]{overpic}
+
+\lstset{
+  language=prolog,
+  showstringspaces=false,
+  aboveskip=-33pt
+}
+
+%\usetheme{Boadilla}
+%\usetheme{Rochester}
+%\usetheme{Rochester}
+\usetheme[]{Goettingen}
+
+%Kopf- und Fußzeile definieren
+\setbeamertemplate{headline}
+{%
+\begin{overpic}[width=\paperwidth]
+{kopf-hg.png}%
+  \put(0,0){{~}{~}}%
+\end{overpic}
+}
+
+\usecolortheme{dove} % :-)
+
+\setbeamercovered{transparent}
+\beamertemplatenavigationsymbolsempty
+\setbeamertemplate{footline}[frame number]
+
+%Titelseite
+\title{Gestaltung von Prozessketten}
+\author[A. Kazakova, B. Lüers]{Anastasia Kazakova, Bengt Lüers}
+
+\institute[Universität Oldenburg]{
+  \inst{}Fakultät 2 - Informatik, Wirtschafts- und Rechtswissenschaften}
+  \titlegraphic{\includegraphics[scale=.4]{unisignet_r08_c2_cutted.png}
+}
+
+\date{\today}
+
+\begin{document}
+
+ \frame{\titlepage}
+
+ \frame{\frametitle{Inhaltsverzeichnis}\tableofcontents[]}
+
+ \section[Einleitung]{Einleitung}
+ \begin{frame}
+  \frametitle{Hintergründe}
+\end{frame}
+
+ \section[Prozessketten]{Prozessketten}
+ \begin{frame}
+  \frametitle{Hintergründe}
+ \end{frame}
+
+ \subsection[Spaghettidiagramme]{Spagehttidiagramme}
+ \begin{frame}
+  \frametitle{Hintergründe}
+
+ \end{frame}
+
+ \subsubsection[Syntax]{Syntax}
+ \begin{frame}
+  \frametitle{Hintergründe}
+
+ \end{frame}
+
+ \subsection[Beispiel IBM]{Beispiel IBM}
+ \begin{frame}
+  \frametitle{Hintergründe}
+
+ \end{frame}
+
+ \section[Ereignisorientierte Prozessketten]{Ereignisorientierte Prozessketten}
+ \begin{frame}
+  \frametitle{Hintergründe}
+
+ \end{frame}
+
+ \subsection[Hintergründe]{Hintergründe}
+ \begin{frame}
+  \frametitle{Hintergründe}
+
+ \end{frame}
+
+\end{document}
