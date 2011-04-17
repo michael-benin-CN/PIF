@@ -36,7 +36,7 @@
 
 %Titelseite
 \title{Gestaltung von Prozessketten}
-\author[A. Kazakova, B. Lüers]{Anastasia Kazakova, Bengt Lüers}
+\author[A. Kazakova \\B. Lüers]{Anastasia Kazakova, Bengt Lüers}
 
 \institute[Universität Oldenburg]{
   \inst{}Fakultät 2 - Informatik, Wirtschafts- und Rechtswissenschaften}
@@ -71,89 +71,119 @@
  \end{frame}
 
  \begin{frame}
-  \frametitle{Prozess. Prozesstypen. Prozessstruktur}
-
-  \textsc{Prozess} ist eine Folge von Aktivitäten zur Erstellung einer Leistung mit einem Anfang, einem Ende und einem Ziel.
-
-\bigskip
-  \textsc{Prozesstypen}\\
+  \frametitle{Prozess}
+  
   \begin{itemize}
-    \item Kernprozess
-    \item Steuerungsprozess
-    \item Unterstützungsprozesse
+  \item eine Folge von Aktivitäten zur Erstellung einer Leistung
+  \item besitzt
+  	\begin{itemize}
+  		\item einen Anfang
+  		\item ein Ende
+  		\item ein Ziel
+  	\end{itemize}
   \end{itemize}
-
 \bigskip
 
-\textsc{Prozessstruktur}
+
+\pause
+\emph{Telefonische Auftragsannahme eines PC-Herstellers} \pause
+\begin{itemize} 
+	\item Prozessanfang $\rightarrow$ Anruf eines Kunden \pause
+	\item Prozessende $\rightarrow$ gewonnener oder verlorener Auftrag \pause
+	\item Ziel $\rightarrow$ erfolgreiche Umsetzung der Kundenwünsche in Auftrag 
+\end{itemize}
+
+
+
+
+
+
 
 \end{frame}
 
+\begin{frame}
+  \frametitle{Prozessstruktur}
+  
+  
+\begin{itemize}
+	\item beschreibt das Zusammenspiel unterschiedlicher Prozesse
+	\item betrachtet die Erreichung eines komplexen Geschäftsziels
+	\item aggregiert einzelne Prozesse
+	\item berücksichtigt deren Abhängigkeiten
+\end{itemize}
+\bigskip
 
+$\rightarrow$ \textsc{Prozessstruktur} besteht damit aus einer Vielzahl von Prozessen sowie den zugehörigen Abhängigkeiten.
 
-
- \section[Prozessketten]{Prozessketten}
+\end{frame}
+ \section[Prozessstruktur]{Prozessstruktur}
  \begin{frame}
   \frametitle{Prozessstrukturanalyse}
+  \begin{itemize}
+  \item beschreibt
+  \begin{itemize}
+  	\item welche Aktivitäten
+  	\item in welcher Reihenfolge
+  	\item von wem durchgeführt werden
+  \end{itemize}
+  \item visualisiert die Prozessabläufe
+  \end{itemize}  \pause
+  
 
-  Prozessstrukturanalyse beschreibt, welche Aktivitäten in welcher Reihenfolge von wem durchgeführt werden. Durch diese Analyse können die Prozessabläufe gut visualisiert werden. \\
-    \end{frame}
-
-  \begin{frame}
-    \frametitle{Grunde der Analyse}
+Grunde der Analyse
    \begin{itemize}
       \item um herauszufinden, ob die Prozesse optimal gestaltet sind
       \item um die Redundanzen und Irrläufer in der Struktur zu erkennen
       \item um die Optimierungsansätze sinnvoll anwenden zu können
-    \end{itemize}
-  \end{frame}
+    \end{itemize}  \pause
+    
 
-
- \begin{frame}
-  \frametitle{Analysemethoden}
-
+Analysemethoden
   \begin{itemize}
-   \item Spaghetti-Diagramm
-   \begin{itemize}
-    \item graphische Darstellung auf hohem Aggregationsniveau
-    \item identifiziert wesentliche Prozessschwachstellen
-    \item eignet sich für deren Optimierung
-   \end{itemize}
-   \bigskip
-    \item Ereignisorientierte Prozesskette
-    \begin{itemize}
-    \item stellt Details von Prozessen dar
-    \item Erkennt Detailprobleme
-    \item eignet sich fürs deren Beseitigen
-   \end{itemize}
+   \item Spaghetti-Diagramm 
+   \item Ereignisorientierte Prozesskette ($\rightarrow$ EPK)
+  \end{itemize}
+ 
+ \end{frame}
 
+ \subsection[Spaghetti-Diagramm]{Spaghetti-Diagramm}
+ \begin{frame}
+  \frametitle{Was kann ein Spaghetti-Diagramm?  }
+  
+Was kann ein Spaghetti-Diagramm?  
+  \begin{itemize}
+  \item zeigt anschaulich, welche Aktivitäten in den einzelnen Prozessschritten durchzuführen sind
+  \item welche organisatorische Einheiten an welchen Prozessschritten zu erbringen sind
+  \item eignet sich für 
+  \begin{itemize}
+  	\item die Visualisierung der organisatorischen Sicht des Prozesses
+  	\item die grobe Darstellung der wesentlichen Prozesskennzahlen 
+  \end{itemize}
+  \end{itemize}
+  
+   \end{frame}
+
+\begin{frame}
+  \frametitle{Wie ist ein Spaghetti-Diagramm aufgebaut?}
+  
+  \begin{itemize}
+  \item horizontale Darstellung von Prozessschritten
+  \item vertikale Darstellung der beteiligten Funktionalbereiche und Leistungsdimensionen
   \end{itemize}
 
-
  \end{frame}
 
- \subsection[Spaghettidiagramme]{Spagehttidiagramme}
- \begin{frame}
-  \frametitle{Hintergründe}
 
- \end{frame}
-
- \subsubsection[Syntax]{Syntax}
- \begin{frame}
-  \frametitle{Hintergründe}
-
- \end{frame}
-
- \subsection[Beispiel IBM]{Beispiel IBM}
+ \subsubsection[Beispiel IBM]{Beispiel IBM}
  \begin{frame}
   \frametitle{IBM-Kreditvergabe: Ausgangssituation}
   Prozess
   \begin{itemize}
-    \item Aufträge werden über Tocherunternehmen finanziert
+    \item Aufträge werden über Tochterunternehmen finanziert
     \item 5 Mitarbeiter eingebunden:
     \begin{itemize}
       \item 1 Telefonistin nimmt Antrag auf
-      \item 3 Experten prüfen und definieren Kondititionen
+      \item 3 Experten prüfen und definieren Konditionen
       \item 1 Schreibkraft verfasst Angebot
     \end{itemize}
   \end{itemize}
@@ -200,7 +230,7 @@
   \includegraphics[scale=2.5]{4_5.png}
  \end{frame}
 
- \subsection{Optimierungsansätze}
+ \subsubsection{Optimierungsansätze}
  \begin{frame}
   \frametitle{Optimierungsansätze}
   Im Folgenden
@@ -328,17 +358,61 @@
    \end{itemize}
   \centerline{\includegraphics[scale=2.5]{4_6_10.png}}
   \begin{itemize}
-    \item Vorteil: Mitarbeiter optimierien ihre Aufgaben selbst.
+    \item Vorteil: Mitarbeiter optimieren ihre Aufgaben selbst.
     \item Nachteil: Veröffentlichung muss durchgehalten werden.
   \end{itemize}
  \end{frame}
 
- \section[Ereignisorientierte Prozessketten]{Ereignisorientierte Prozessketten}
+ \subsection[Ereignisorientierte Prozessketten]{Ereignisorientierte Prozessketten}
  \begin{frame}
-  \frametitle{Hintergründe}
+  \frametitle{Was kann EPK?}
+  \begin{itemize}
+  \item stellt die Details des Prozesses dar
+  \item visualisiert die Steuerungssicht des Prozesses
+  \item stellt die Entscheidungen und Verzweigungen im Prozessablauf dar
+  \item erkennt die Detailprobleme
+  \end{itemize}
+ \end{frame}
+ 
+  \begin{frame}
+  \frametitle{Wie ist EPK aufgebaut?}
+  \begin{itemize}
+  \item Ereignisse
+  \item Funktionen
+  \item Verknüpfungsoperatoren
+  \begin{itemize}
+  	\item
+  \end{itemize}
+  \end{itemize}
+ \end{frame}
+ 
 
+ 
+ \subsubsection{Beispiel Hypothek}
+  \begin{frame}
+  \frametitle{Hypothekenbeantragung}
+hier kommt ein Grafik mit dem Hypotheken-Beispiele rein. Ich werde anhand dieses Bildes erklären wie die ePK funktionieren :)
  \end{frame}
 
+%Zusammenfassung
+\section[Zusammenfassung]{Zusammenfassung}
+ \begin{frame}
+  \frametitle{Spaghetti-Diagramm vs. EPK}
+  hier kommt eine Tabelle mit dem Vergleich rein
+  
+  \end{frame}
+  
+  
+   \begin{frame}
+  \frametitle{Vielen Dank für Eure Aufmerksamkeit!}
+\begin{center}
+  \begin{Huge}
+\textsc{Fragen?}
+\end{Huge}
+  
+\end{center}
+  \end{frame}
+    
 % Quellen
 
  \begin{frame}
@@ -352,6 +426,8 @@
       München [u.a.] : Pearson Studium, 2005. - 576 S.\\
       Ill., graph. Darst., Kt.\\
       Seite 153-163
+     \item Müller, Dominik; Management datengetriebener Prozessstrukturen\\
+      Verlag Dr.Hut, 2009.
    \end{itemize}
  \end{frame}
 
