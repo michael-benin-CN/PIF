@@ -1,10 +1,11 @@
-\documentclass{beamer}
+\documentclass[xcolor=dvipsnames]{beamer}
 
 \usepackage[ngerman]{babel}
 \usepackage[utf8]{inputenc}
 
 \usepackage{listings}
 \setbeamercovered{transparent}
+\usepackage{tabularx}
 
 \usepackage[percent]{overpic}
 
@@ -86,12 +87,13 @@
 
 
 \pause
-\emph{Telefonische Auftragsannahme eines PC-Herstellers} \pause
+
+\textit{Telefonische Auftragsannahme eines PC-Herstellers \pause
 \begin{itemize} 
 	\item Prozessanfang $\rightarrow$ Anruf eines Kunden \pause
 	\item Prozessende $\rightarrow$ gewonnener oder verlorener Auftrag \pause
 	\item Ziel $\rightarrow$ erfolgreiche Umsetzung der Kundenwünsche in Auftrag 
-\end{itemize}
+\end{itemize}}
 
 
 
@@ -149,8 +151,7 @@ Analysemethoden
  \subsection[Spaghetti-Diagramm]{Spaghetti-Diagramm}
  \begin{frame}
   \frametitle{Was kann ein Spaghetti-Diagramm?  }
-  
-Was kann ein Spaghetti-Diagramm?  
+   
   \begin{itemize}
   \item zeigt anschaulich, welche Aktivitäten in den einzelnen Prozessschritten durchzuführen sind
   \item welche organisatorische Einheiten an welchen Prozessschritten zu erbringen sind
@@ -409,7 +410,27 @@ hier kommt ein Grafik mit dem Hypotheken-Beispiele rein. Ich werde anhand dieses
 \section[Zusammenfassung]{Zusammenfassung}
  \begin{frame}
   \frametitle{Spaghetti-Diagramm vs. EPK}
-  hier kommt eine Tabelle mit dem Vergleich rein
+\small{
+\begin{tabularx}{\textwidth}{XX}
+
+\hline
+\hline
+\textbf{Spaghetti-Diagramm} & \textbf{EPK} \\ 
+\hline
+\multicolumn{2}{l}{\pause Analyse der Prozessstruktur und Optimierung der Prozesse} \\ \hline
+\pause\textcolor{RoyalBlue}{Grobe Darstellung} der wesentlichen Prozesskennzahlen & \pause\textcolor{RoyalBlue}{Detaillierte Darstellung} der Prozesse   \\ 
+\hline
+\pause Zeigt \textcolor{RoyalBlue}{welche Aktivitäten}, \textcolor{RoyalBlue}{in welcher Reihenfolge}, \textcolor{RoyalBlue}{von wem} durchgeführt werden & \pause Zeigt \textcolor{RoyalBlue}{Entscheidungen}  und \textcolor{RoyalBlue}{Verzweigungen} im Prozessablauf \\
+\hline
+\pause Visualisierung der \textcolor{RoyalBlue}{organisatorischen Sicht} eines Prozesses & \pause Visualisierung der \textcolor{RoyalBlue}{Steuerungssicht} eines Prozesses \\
+\hline
+\pause Relativ \textcolor{RoyalBlue}{einfacher Syntax} & \pause \textcolor{RoyalBlue}{Komplexer Syntax} $\rightarrow$ erschwert Verständnis \\
+\hline
+\hline
+
+
+\end{tabularx}
+}
   
   \end{frame}
   
