@@ -1,0 +1,27 @@
+\documentclass[a4paper,10pt,leqno]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage{marvosym}
+\usepackage{lastpage}
+
+% Seitenlayout
+\usepackage{vmargin}
+\setmarginsrb{2.0cm}{2.0cm}{2.0cm}{2.0cm}{0.6cm}{0.6cm}{0.6cm}{0.5cm}
+
+% Schriftart
+\usepackage{mathptmx,charter,courier}
+\usepackage[scaled]{helvet}
+\renewcommand*\familydefault{\sfdefault} % % Only if the base font of the document is to be sans serif
+
+% Header
+\usepackage{fancyhdr}
+\pagestyle{fancy} % eigener Seitenstil
+\fancyhf{} % alle Kopf- und Fußzeilenfelder bereinigen
+\fancyhead[C]{Prodution/Investition & Finanzierung - Zusammenfassung} % Kopfzeile links
+\renewcommand{\headrulewidth}{0.4pt} % obere Trennlinie
+
+% Footer
+\fancyfoot[C]{\thepage / \pageref{LastPage}} % Seitennummer
+\renewcommand{\footrulewidth}{0.4pt} % untere Trennlinie
+

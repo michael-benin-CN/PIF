@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.0 r9654"
    sodipodi:docname="4_11.svg"
-   inkscape:export-filename="4_6_10.png"
+   inkscape:export-filename="4_11.png"
    inkscape:export-xdpi="1800"
    inkscape:export-ydpi="1800">
   <defs
@@ -56,11 +56,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.76"
-     inkscape:cx="49.677649"
-     inkscape:cy="82.390485"
+     inkscape:zoom="5.1901638"
+     inkscape:cx="66.304481"
+     inkscape:cy="33.703401"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      inkscape:window-width="1366"
@@ -107,8 +107,8 @@
        height="91"
        x="-33"
        y="5"
-       transform="translate(145,4)"
-       ry="0" />
+       ry="0"
+       transform="translate(145,4)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutM)"
        d="m 177,81 0,8"
@@ -136,13 +136,13 @@
     <path
        inkscape:connector-curvature="0"
        id="path8679"
-       d="m 177,26 34,0 0,5"
+       d="m 177,26 34,0 0,8"
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#DotL);marker-end:url(#TriangleOutM)"
        sodipodi:nodetypes="ccc" />
     <text
        xml:space="preserve"
        style="font-size:2.5px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="171"
+       x="177.62598"
        y="11.564697"
        id="text3765-4"
        sodipodi:linespacing="125%"><tspan
@@ -150,16 +150,16 @@
          id="tspan3767-7"
          x="171"
          y="11.564697"
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1">Antrag auf</tspan><tspan
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center">Antrag auf</tspan><tspan
          sodipodi:role="line"
          x="171"
          y="14.689697"
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
          id="tspan3769-4">Hypothek</tspan><tspan
          sodipodi:role="line"
          x="171"
          y="17.814697"
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
          id="tspan4337">liegt vor</tspan></text>
     <text
        sodipodi:linespacing="125%"
@@ -180,22 +180,22 @@
        width="19"
        height="10"
        x="201"
-       y="32"
+       y="35"
        ry="2" />
     <text
        sodipodi:linespacing="125%"
        id="text4537"
-       y="36.127197"
-       x="203"
+       y="39.127197"
+       x="210.65686"
        style="font-size:2.5px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        xml:space="preserve"><tspan
          id="tspan4543"
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
-         y="36.127197"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
+         y="39.127197"
          x="203"
          sodipodi:role="line">Sicherheiten</tspan><tspan
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
-         y="39.252197"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
+         y="42.252197"
          x="203"
          sodipodi:role="line"
          id="tspan4550">prüfen</tspan></text>
@@ -226,7 +226,7 @@
     <text
        xml:space="preserve"
        style="font-size:2.5px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="150.61707"
+       x="157.42554"
        y="64.127197"
        id="text3765-4-7"
        sodipodi:linespacing="125%"><tspan
@@ -234,11 +234,11 @@
          id="tspan3767-7-1"
          x="150.61707"
          y="64.127197"
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1">Unterlagen</tspan><tspan
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center">Unterlagen</tspan><tspan
          sodipodi:role="line"
          x="150.61707"
          y="67.252197"
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
          id="tspan4337-6">vollständig</tspan></text>
     <path
        sodipodi:nodetypes="ccccccc"
@@ -255,7 +255,7 @@
     <text
        xml:space="preserve"
        style="font-size:2.5px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="119.08691"
+       x="127.28759"
        y="64.127197"
        id="text3765-4-7-3"
        sodipodi:linespacing="125%"><tspan
@@ -263,11 +263,11 @@
          id="tspan3767-7-1-2"
          x="119.08691"
          y="64.127197"
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1">Unterlagen</tspan><tspan
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center">Unterlagen</tspan><tspan
          sodipodi:role="line"
          x="119.08691"
          y="67.252197"
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
          id="tspan4337-6-6">unvollständig</tspan></text>
     <path
        sodipodi:nodetypes="ccccccc"
@@ -278,7 +278,7 @@
     <text
        xml:space="preserve"
        style="font-size:2.5px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="120.61707"
+       x="127.42554"
        y="92.564697"
        id="text3765-4-7-3-4"
        sodipodi:linespacing="125%"><tspan
@@ -286,16 +286,16 @@
          id="tspan3767-7-1-2-3"
          x="120.61707"
          y="92.564697"
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1">Weitere</tspan><tspan
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center">Weitere</tspan><tspan
          sodipodi:role="line"
          x="120.61707"
          y="95.689697"
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
          id="tspan4786">Unterlagen</tspan><tspan
          sodipodi:role="line"
          x="120.61707"
          y="98.814697"
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
          id="tspan4337-6-6-8">vorgelegt</tspan></text>
     <path
        sodipodi:nodetypes="cc"
@@ -315,15 +315,15 @@
        sodipodi:linespacing="125%"
        id="text4537-7-2"
        y="79.369507"
-       x="120"
+       x="126.77063"
        style="font-size:2.5px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        xml:space="preserve"><tspan
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
          y="79.369507"
          x="120"
          sodipodi:role="line"
          id="tspan4585-1">Unterlagen</tspan><tspan
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
          y="82.494507"
          x="120"
          sodipodi:role="line"
@@ -346,20 +346,20 @@
        sodipodi:linespacing="125%"
        id="text4537-7"
        y="37.526245"
-       x="135"
+       x="141.61743"
        style="font-size:2.5px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        xml:space="preserve"><tspan
          id="tspan4543-1"
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
          y="37.526245"
          x="135"
          sodipodi:role="line">Bau-</tspan><tspan
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
          y="40.651245"
          x="135"
          sodipodi:role="line"
          id="tspan4585">unterlagen</tspan><tspan
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
          y="43.776245"
          x="135"
          sodipodi:role="line"
@@ -444,7 +444,7 @@
     <text
        xml:space="preserve"
        style="font-size:2.5px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="188.72351"
+       x="196.42554"
        y="64.127197"
        id="text3765-4-7-0"
        sodipodi:linespacing="125%"><tspan
@@ -452,11 +452,11 @@
          id="tspan3767-7-1-0"
          x="188.72351"
          y="64.127197"
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1">Sicherheiten</tspan><tspan
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center">Sicherheiten</tspan><tspan
          sodipodi:role="line"
          x="188.72351"
          y="67.252197"
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
          id="tspan4337-6-1">vorhanden</tspan></text>
     <path
        sodipodi:nodetypes="cc"
@@ -475,20 +475,20 @@
     <text
        xml:space="preserve"
        style="font-size:2.5px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="170.16577"
+       x="176.27295"
        y="78.127197"
        id="text4923"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="170.16577"
          y="78.127197"
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
          id="tspan4925">Hypothek</tspan><tspan
          id="tspan4927"
          sodipodi:role="line"
          x="170.16577"
          y="81.252197"
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1">bewilligen</tspan></text>
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center">bewilligen</tspan></text>
     <path
        style="fill:#000000;fill-opacity:1;stroke:none"
        d="m 169,90 -2,5 2,4.999998 15,0 L 186,95 184,90 z"
@@ -499,19 +499,19 @@
        sodipodi:linespacing="125%"
        id="text4937"
        y="94.088745"
-       x="171.2644"
+       x="176.48047"
        style="font-size:2.5px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        xml:space="preserve"><tspan
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
          y="94.088745"
-         x="171.2644"
+         x="169.75317"
          id="tspan4939"
          sodipodi:role="line">Antrag</tspan><tspan
          id="tspan4941"
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
          y="97.213745"
-         x="171.2644"
-         sodipodi:role="line">bewilligt</tspan></text>
+         x="169.75317"
+         sodipodi:role="line">genehmigt</tspan></text>
     <rect
        ry="2"
        y="74"
@@ -523,20 +523,20 @@
     <text
        xml:space="preserve"
        style="font-size:2.5px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="220.16577"
+       x="226.27295"
        y="78.127197"
        id="text4923-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="220.16577"
          y="78.127197"
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
          id="tspan4925-5">Hypothek</tspan><tspan
          id="tspan4927-6"
          sodipodi:role="line"
          x="220.16577"
          y="81.252197"
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1">bewilligen</tspan></text>
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center">bewilligen</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutM)"
        d="m 226,81 0,8"
@@ -553,19 +553,19 @@
        sodipodi:linespacing="125%"
        id="text4937-2"
        y="94.088745"
-       x="221.2644"
+       x="226.48047"
        style="font-size:2.5px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        xml:space="preserve"><tspan
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
          y="94.088745"
-         x="221.2644"
+         x="220.20483"
          id="tspan4939-6"
          sodipodi:role="line">Antrag</tspan><tspan
          id="tspan4941-0"
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
          y="97.213745"
-         x="221.2644"
-         sodipodi:role="line">bewilligt</tspan></text>
+         x="220.20483"
+         sodipodi:role="line">abgelehnt</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -582,20 +582,20 @@
        sodipodi:linespacing="125%"
        id="text4999"
        y="62.807007"
-       x="218.72351"
+       x="226.42554"
        style="font-size:2.5px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        xml:space="preserve"><tspan
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
          y="62.807007"
          x="218.72351"
          id="tspan5001"
          sodipodi:role="line">Sicherheiten</tspan><tspan
          id="tspan5003"
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
          y="65.932007"
          x="218.72351"
          sodipodi:role="line">nicht</tspan><tspan
-         style="font-size:2.5px;fill:#ffffff;fill-opacity:1"
+         style="font-size:2.50000000000000000px;fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center"
          y="69.057007"
          x="218.72351"
          sodipodi:role="line"
