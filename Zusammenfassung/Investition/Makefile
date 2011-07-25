@@ -12,9 +12,9 @@ pdf:
 		cd "`dirname $$file`"; \
 		sed \
 			-e 's/'--------------------------------------------------------------------------------'/\\newpage/g' \
+			-e 's/'€'/\\euro{}/g' \
 			"`basename $$file`" > "`basename $$file .md`".texEncoded; \
 		markdown2pdf -C ./markdown2pdf.sty -o "`basename $$file .md`".pdf  "`basename $$file .md`".texEncoded; \
-		rm "`basename $$file .md`".texEncoded; \
 	done
 
 html:
@@ -38,4 +38,6 @@ html:
 	done
 
 evince: pdf
-	evince PIF-Zusammenfassung.pdf &
+	for file in $(markdowns); do \
+		evince "`basename $$file .md`".pdf; \
+	done
