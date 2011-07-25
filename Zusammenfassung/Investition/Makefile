@@ -12,7 +12,7 @@ pdf:
 		cd "`dirname $$file`"; \
 		sed \
 			-e 's/'--------------------------------------------------------------------------------'/\\newpage/g' \
-			-e 's/'€'/\\euro{}/g' \
+			-e 's/'€'/\\text{\\euro}/g' \
 			"`basename $$file`" > "`basename $$file .md`".texEncoded; \
 		markdown2pdf -C ./markdown2pdf.sty -o "`basename $$file .md`".pdf  "`basename $$file .md`".texEncoded; \
 	done

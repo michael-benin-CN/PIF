@@ -8,6 +8,11 @@ Definitionen ziemlich direkt auswendig lernen.
 
 Net-Present-Value: Zu einfach, um in der Klasur dran zukommen
 
+Formelsammlung
+==============
+
+?
+
 Vorwort
 =======
 
@@ -949,3 +954,223 @@ There are several issues the analyst must consider when using IRR to value inves
 - Thirdly, one must be careful when using IRR for projects that require investment or borrowing.
 - Fourthly, if the cash flows from the project change sind more than once the it is very likely that the project will have more than one IRR value.
 
+Exercise 40 - Calculating Profitability Index (6A17)
+----------------------------------------------------
+
+Suppose the following two independent investment opportunities are available to Greenplain Ltd.
+The appropriate discount rate is 10 per cent.
+
+    Year    Project Alpha (€)   Project Beta (€)
+    0       -500                -2.000
+    1       300                 300
+    2       700                 1.800
+    3       600                 1.700
+
+a) Compute the profitability index for each of the two projects.
+b) Which project(s) should Greenplain accept,
+based on the profitability index rule?
+
+---
+
+a) The profitability index is the present value of the future cash flows devided by he inital cost.
+So for Project Alpham the profitiblility index is:
+
+$PI_{alpha} = [300 \text{\euro} /1.10 + 700 \text{\euro} / 1.10^2 + 600 \text{\euro}/1.10^3]/ 500\text{\euro} = 2.604$
+
+And for Project Beta the Profitability index is:
+
+$PI_{Beta} = [300€ / 1.10 + 1800 €/1.10^2 + 1700€/1.10^3] / 2000 € = 1.519$
+
+b) According to the PI, you would accept Project Alpha.
+However, remember the profitability index rule can lead to an incorrrect decision when rannking mutually exlusive projects.
+
+Exercise 41 - Comparing Investment Criteria (6A24)
+--------------------------------------------------
+
+The treasurer of Amaro Canned Fruits has projected the cash flows of projects A, B and C as follows:
+
+    Year    Project A (€)   Project B (€)   Project C (€)
+    0       -100.000        -200.000        -100.000
+    1       70.000          130.000         75.000
+    2       70.000          60.000          130.000
+    
+Suppose the relevant discount 12 per cent per rate is year.
+
+a) Compute the profitability index for each of the three projects.
+b) Compute the NPV for each of the three projects.
+c) Suppose these three projects are independent.
+Which project(s) should Amaro accept, based on the profitability index rule?
+d) Suppose these projects are mutually exclusive.
+Which project(s) should Amaro accept, based on the profitability index rule?
+e) Suppose Amaro’s budget for these projects is €300.000.
+The projects are not dividable. Which project(s) should Amaro accept?
+
+---
+a) Profitability indexes
+
+PI_ProjectA = [70.000/1.12 + 70.000/1.12^2 ] /  100.000 € = 1.18
+PI_ProjectB = [130.000/1.12 + 130.000/1.12^2] / € = 1.10
+PI_ProjectC = [75.000/1.12 + 60.000/1.12^2] / € = 1.15
+
+b) Net Present Value
+
+NPV_a = -100.000 + 70.000/1.12 + 70.000 / 1.12 + 70.000 / 1.12^2 = 18803.57
+NPV_b =  190
+NPV_c = 14095,92
+
+c) Accept projects A, B, and C. Since the projects are independent, accept all three
+projects because the respective profitability index of each is greater than one.
+
+> Man kann jedes Projekt nehmen, weil ihre Indizes alle größer Null und sie daher profitabel sind.
+
+d) Accept Project B. Since the Projects are mutually exclusive, choose the Project with
+the highest PI, while taking into account the scale of the Project. Because Projects A
+and C have the same initial investment, the problem of scale does not arise when
+comparing the profitability indices. Based on the profitability index rule, Project C can
+be eliminated because its PI is less than the PI of Project A. Because of the problem of
+scale, we cannot compare the PIs of Projects A and B. However, we can calculate the
+PI of the incremental cash flows of the two projects, which are:
+
+Project     C0          C1      C2
+B-A         -€100,000   €60,000 €60,000
+
+d) When calculating incremental cash flows, remember to subtract
+the cash flows of the project with the smaller initial cash outflow from
+those of the project with the larger initial cash outflow. This procedure
+insures that the incremental initial cash outflow will be negative. The
+incremental PI calculation is:
+ 
+PI(B – A) = [€60,000 / 1.12 + €60,000 / 1.122] / €100,000
+PI(B – A) = 1.014
+ 
+The company should accept Project B since the PI of the
+incremental cash flows is greater than one.
+
+e) Remember that the NPV is additive across projects. Since we can spend 300.000 € we could take two of the projects. in this case we would take the two projects wih the highest NPVs which are Prject B and PRoject A.
+
+Exercise 42 - Incremental Cash Flows (7A2)
+------------------------------------------
+
+In the context of capital budgeting, what is an opportunity
+cost?
+
+---
+
+In this context an opportinuty cost refers to the value of an asset or other input that will be used in a provjet, the relecant cost ist what the asset int out is actually mworth today. not fpor example it osts to aquire.
+
+Exercise 43 - Inflation and Capital Budgeting (7A3)
+---------------------------------------------------
+
+In an hyperinflationary environment,
+how would you incorporate inflation into a capital budgeting analysis?
+Explain your methodology in words to a manager who is worried about
+the power of capital budgeting when inflation is very high.
+
+---
+
+Captial bugbeting can easily incorporate price increases throught inflation into its analyssos. the key concept is consitency. if prives are rising at a high rate, you sould use nomanl cash dlowas woch inclie the proche increases from nflataion an niimanl diexount rate. a nimanalt disxount rate also includes the effect if inflation.
+
+Exercise 45 - Inflation and company value (7A17)
+------------------------------------------------
+
+Sparkling Water Plc expects to sell 2 Million bottles
+of drinking water each year in perpetuity. This year
+each bottle will sell for £1.25 in real terms and will
+cost £0.70 in real terms. Sales income and costs
+occur at year-end. Revenues will rise at a real rate of 7
+per cent annually, while real costs will rise at a real
+rate of 5 per cent annually. The real discount rate is 10
+per cent. The corporate tax rate is 28 per cent. What is
+Sparkling worth today?
+
+---
+
+To determine the value of a firm, we can simply find the present
+value of the firm’s future cash flows. No depreciation is given, so we
+can assume depreciation is zero. Using the tax shield approach, we
+can find the present value of the aftertax revenues, and the present
+value of the aftertax costs. The required return, growth rates, price, and
+costs are all given in real terms. Subtracting the costs from the
+revenues will give us the value of the firm’s cash flows. We must
+calculate the present value of each separately since each is growing at
+a different rate. First, we will find the present value of the revenues. The
+revenues in year 1 will be the number of bottles sold, times the price
+per bottle, or:
+
+Aftertax revenue in year 1 in real terms = (2.000.000 x 1.25 €)(1 - 0.28)
+Aftertax revenue in year 1 in real terms = 1.800.000 €
+
+Exercise 44 - Equivalent Annual Cost (7A19)
+-------------------------------------------
+
+Bridgton Golf Academy is evaluating different golf
+equipment. The “Dimple-Max” equipment costs
+£45,000, has a three-year life and costs £5,000 per
+year to operate. The relevant discount rate is 12 per
+cent. Assume that the reducing balance (20 per cent)
+depreciation method is used. Furthermore, assume
+the equipment has a salvage value of £20,000 at the
+end of the project’s life. The relevant tax rate is 28
+per cent. All cash flows occur at the end of the year.
+What is the equivalent annual cost (EAC) of this
+equipment?
+
+---
+
+To calculate the EAC of an investment, first
+calculate the depreciation schedule.
+
+    Year                                        1           2           3
+    a) Starting Value                           £45,000     £36,000     £28,800
+    b) Depreciation                             £9,000      £16,200     £25,000
+    c) Accumulated Depreciation     20% (a)     £9,000      £7,200      £8,800
+    d) Residual Value               a) - c)     £36,000     £28,800     £20,000
+
+Now use the depreciation schedule to estimate the operating cash flow.
+
+                                    1           2           3
+    Pre-Tax Operating Costs         -£ 5,000    -£ 5,000    -£ 5,000
+    Depreciation                    -£ 9,000    -£ 7,200    -£ 8,800
+     = EBT                          -£ 14,000   -£ 12,200   -£ 13,800
+    Tax (28%)                       -£ 3,920    -£ 3,416    -£ 3,864
+    Net Income                      -£ 10,080   -£ 8,784    -£ 9,936
+
+                                    1           2           3
+    Net Income                      -£ 10,080   -£ 8,784    -£ 9,936
+    Depreciation                    £9,000      £7,200      £8,800
+    Operating Cash Flow             -£ 1,080    -£ 1,584    -£ 1,136
+ 
+The cash flows for each year are now calculated.
+
+                        0           1           2           3
+    Investment          -£ 45,000                           £ 20,000
+    Operating Cash Flow             -£1,080     -£ 1,584    -£ 1,136
+    Cash Flows          -£ 45,000   -£1,080     -£ 1,584    £ 18,864
+    PV Cash Flow        -£45,000    -£ 964      -£ 1,236    £ 13,427
+
+The Net Present Value is -£33,800 and the Equivalent Annual Cost is
+-£33,800 = EAC(PVIFA12%,3)
+EAC = £14,072
+
+7a17 - Nicht zuordnbar
+----------------------
+
+Revenues will grow at seven pervet per year in real terms foreeer allty grwoing operteuity fomula, we find the present calue of the revenues ois:
+
+PV of revenues ? C_1/(R-g)
+= 1800000/(0.1 - 0.07) = 60.000.000 €
+
+The real aftertex costs in year 1 will be:
+ Aftertax in year 1 in real terms = 2000 * 0,7 €) (1 - 0.28) = 1.008.000 €
+
+- Zahlungen gleich für immer (Ewige Rente)
+- Zahlungen gleich für bestimmte Zeit (Jede Zahlung einzeln abzinsen, Abzinsungsformel, Barwertfaktor)
+- Zahlungen jedes mal anders (jeden faktor einzeln abzinsen)
+
+Costs will grow at five percent per year in real terms forever. applying the growing oertuity formula, we find the present value of the costs is
+
+PV_costs = C_1(R-G) = 1008000€/ (0.10 - 0,05) = 20160000
+
+Now we can find the value of the firm, which is:
+
+Value_firm = PV of revenues - PV of costs = 60000000 € - 20160000 € = 39840000 €
