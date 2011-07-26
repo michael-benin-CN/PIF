@@ -2,6 +2,7 @@ Allgemeine Klausurtipps
 =======================
 
 Definitionen ziemlich direkt auswendig lernen.
+
 - Supply Chain
 - Supply Chain Management
 - Focal Company
@@ -78,28 +79,30 @@ Exercise 4 (1-A7)
 -----------------
 
 The 2007 annual report for Anglo American plc, the world's leading global
-mining company, shows that the firm had € 34.042 billion in non-current assets
-and €9.962 billion in current assets. It reported € 11.480 billion in current
-liabilities and € 8.665 billion in non-current liabilities. How much has the equity
+mining company, shows that the firm had \text{\euro} 34.042 billion in non-current assets
+and \text{\euro}9.962 billion in current assets. It reported \text{\euro} 11.480 billion in current
+liabilities and \text{\euro} 8.665 billion in non-current liabilities. How much has the equity
 of Anglo American plc worth?
+
+---
+
+![Bilanzübersicht](./Bilanzuebersicht.png)
 
 ---
 
 Equity = Total Assets - Total Liabilities = (9.662  + 34.0442) - (11.480 + 8.665) = 23.859 billion
 
-![Bilanzübersicht](./Bilanzuebersicht.png)
-
 Exercise 5 (1-A8)
 -----------------
 
-Anlgo American plc announces that it plans to increase its non-current assets by € 10 billion.
+Anlgo American plc announces that it plans to increase its non-current assets by \text{\euro} 10 billion.
 If the company whishes to maintain its ratio of total liabilites to quity, how much long-term debt should it use?
 
 ---
 
 - Step 1: Determine liability/equity ratio:
 
-    Liability / Equity = 20.145/23.856 = 0.844
+    $\[ \frac{Liability}{Equity} = \frac{20.145}{23.856} = 0.844 \]$
 
 - Step 2: To find the current weightings of debt and quity in the new funding, you must actually calculate a new ratio, liability/assets:
 
@@ -112,9 +115,9 @@ If the company whishes to maintain its ratio of total liabilites to quity, how m
 - Step 4: Check the new liabilty/equity ratio
 
     new level of liabilites = 24.7229 billion
-    new level of equity = € 29.2810 biollion
+    new level of equity = \text{\euro} 29.2810 biollion
 
-- The new ratio is: € 24.7229 billion/29.2810 billion = 0,844 - the same as before
+- The new ratio is: \text{\euro} 24.7229 billion/29.2810 billion = 0,844 - the same as before
 
 Exercise 6 (1-A10)
 ------------------
@@ -159,7 +162,7 @@ In this case you would choose projectA because the risk of losing and gaining mo
 Exercise 8 (1-A14)
 ------------------
 
-You suddenly own a company that is losing € 100.000 per week.
+You suddenly own a company that is losing \text{\euro} 100.000 per week.
 At the rate things are going the company won't have any cash left in six months to pay creditors.
 
 What are your goals as a financial manager?
@@ -178,7 +181,7 @@ Exercise 9 (1-A21)
 ------------------
 
 You have the following information for the British mining firm Antofagasta plc.
-All figures are in € millions.
+All figures are in \text{\euro} millions.
 
 ![Liabilities](./liabilities.png)
 
@@ -237,7 +240,7 @@ shareholders? What about bondholders?
 Exercise 13 - Valuation: The One-Period Case (4-A1)
 ---------------------------------------------------
 
-Would you be willing to pay € 500 today in exchange for € 525 in one year?
+Would you be willing to pay \text{\euro} 500 today in exchange for \text{\euro} 525 in one year?
 What would be the key considerations in answering yes or no?
 Would your answer depend on who is making the promise to repay?
 
@@ -257,7 +260,7 @@ What happens to the present value?
 Exercise 15 - Calculating Future Values (4-A7)
 ----------------------------------------------
 
-In the UK, every child born after 1 September 2002 receives a € 250 voucher from the government that they cannot touch until they reach the age of 18.
+In the UK, every child born after 1 September 2002 receives a \text{\euro} 250 voucher from the government that they cannot touch until they reach the age of 18.
 Assume that the growth rate o the funds is 3.5 per cent (this is what the British government suggests):
 
 How much will your child have at the abe of 18?
@@ -265,7 +268,7 @@ How much will your child have at the abe of 18?
 Exercise 16 - Calculating present values (4-A8)
 -----------------------------------------------
 
-In 2008, British Airways had a pension liability of € 330 million.
+In 2008, British Airways had a pension liability of \text{\euro} 330 million.
 
 Let's assume it must be paid in 30 years' time.
 
@@ -279,9 +282,9 @@ If the relevant discount rate is 5.6 per cent, what is the present value of this
 Exercise 17 - Calculating Rates of Return (4-A9)
 ------------------------------------------------
 
-On 8 February 2009 John Majeski, chairman of Reading Football Club, sold the Edgar Degas bronze sculpture Petite  Danseuse de Quatorze Ans at auction for a world record price of € 13.3 million.
+On 8 February 2009 John Majeski, chairman of Reading Football Club, sold the Edgar Degas bronze sculpture Petite  Danseuse de Quatorze Ans at auction for a world record price of \text{\euro} 13.3 million.
 
-He bought the statue in 2004 for € 5 million. What was his annual rate of return on this sculpture?
+He bought the statue in 2004 for \text{\euro} 5 million. What was his annual rate of return on this sculpture?
 
 Exercise 18 - Interest (4-A6)
 -----------------------------
@@ -300,7 +303,7 @@ Exercise 19 - Perpetuities (4-A10)
 ----------------------------------
 
 An investor purchasing a British consol is entitled to receive annual payments from the British government for ever.
-What is the price of a consol that pays € 4 annually if the next payment occurs one year from today?
+What is the price of a consol that pays \text{\euro} 4 annually if the next payment occurs one year from today?
 The market interest rate is 3 per cent.
 
 Exercise 20 - Net Present Value / NPV (4-A12)
@@ -314,17 +317,17 @@ and the agent must also pay 10 per cent of the amount from his own pocket.
 
 Consider the footballer Cristiano Ronaldo, who was widely rumored to be leaving Manchester United for Real Madrid during the summer of 2008 (he acutally joined in the summer of 2009).
 
-At the time Ronaldo was earning € 120,000 a week, and had four years of his contract with Manchester United left.
+At the time Ronaldo was earning \text{\euro} 120,000 a week, and had four years of his contract with Manchester United left.
 
 a) Calculate how much Ronaldo would have personally had to pay Manchester United if he left with 4 years remainung, 3 years remaining, 2 years remaining and 1 year remaining!
 b) If the appropriate annulized discount rate is 8 per cent, what is the present value to Ronaldo of breaking his contract with 4, 3, 2, 1 and 0 years remaining?
-c) Assume you are Ronaldo's agent and can personally earn € 5 million today from getting  Ronaldo to sign a pre-contract agreement to join Real Madrid in the future.
+c) Assume you are Ronaldo's agent and can personally earn \text{\euro} 5 million today from getting  Ronaldo to sign a pre-contract agreement to join Real Madrid in the future.
 d) Calculate the net present value to you if Ronaldo left with 4 years remaining, 3 years remainung, 2 years remaining and 1 year remaining.
 
 Exercise 21 - Future Value (4-A16)
 ----------------------------------
 
-What is the future value in four years of € 1,000 invested in an account stated annual interest rate of 10 per cent:
+What is the future value in four years of \text{\euro} 1,000 invested in an account stated annual interest rate of 10 per cent:
 
 a) Compounded annually?
 b) Compounded semi-annually?
@@ -337,7 +340,7 @@ e) Why does the future value increase as the compounding period shortens?
 FP = PV (1 + r)^T
 
 a) annualy
-FV = 1000 (1 + 0.1)^4 = 1,464.10 €
+FV = 1000 (1 + 0.1)^4 = 1,464.10 \text{\euro}
 
 b) semi-annually
 FV = 1000 (1  + 0.1/2)^(4*2)
@@ -393,7 +396,7 @@ Exercise 23 - Growing Perpetuities (C4E19)
 
 Marcus Boruc has been working on a new hands-free telephone that clips into your ear.
 The new gadget has now been cleared for manufacture and development.
-Marcus anticipates his first annual cash flow from the phone to be €200,000, received two years from today.
+Marcus anticipates his first annual cash flow from the phone to be \text{\euro}200,000, received two years from today.
 Subsequent annual cash flows will grow at 5 per cent in perpetuity.
 What is the present value of the phone if the discount rate is 10 per cent?
 
@@ -409,8 +412,8 @@ Where g is the *perpetual growth rate*
 
 PV  = (C / (r - g)), however Marc receives two years from today, therefore
 PV  = (C / (r - g)) * (1 / (1 + r))
-    = (200.000 €/ (0,1 - 0,05)) * ( / (1 + 0,1))
-    = 3,636,363.64 €
+    = (200.000 \text{\euro}/ (0,1 - 0,05)) * ( / (1 + 0,1))
+    = 3,636,363.64 \text{\euro}
 
 Exercise 24 - Calculating Interest Expense (4A21)
 -------------------------------------------------
@@ -418,7 +421,7 @@ Exercise 24 - Calculating Interest Expense (4A21)
 You receive a credit card application from Shady Banks plc offering an introductory rate of 1.90 per cent per year, compounded monthly for the first six
 months, increasing thereafter to 16 per cent per year compounded monthly.
 
-Assuming you transfer the €4,000 balance from your existing credit card
+Assuming you transfer the \text{\euro}4,000 balance from your existing credit card
 and make no subsequent payments,
 how much interest will you owe at the end of the first year?
 
@@ -426,22 +429,22 @@ how much interest will you owe at the end of the first year?
 
 Here we need to find the FV of lump sum, with a changing interest rate. We must solve this problem in two parts. After the first six months, the balance will be:
 
-FV = € 4000 [1+ (.019/12)]^6 = 4038,15 €
+FV = \text{\euro} 4000 [1+ (.019/12)]^6 = 4038,15 \text{\euro}
 
 This is the blance in six months. The FV in another six months will be:
 
-FV = 4038.15 [1 + (.16/12)]^6  = 4372,16 €
+FV = 4038.15 [1 + (.16/12)]^6  = 4372,16 \text{\euro}
 
 The problem asks fpor interest accured, so , to find the interes, we substract the beginning balance from the FV. The interst accured is:
 
-Interest = 4372.16 € - 4000.00 € = 372.16 €
+Interest = 4372.16 \text{\euro} - 4000.00 \text{\euro} = 372.16 \text{\euro}
 
 Exercise 25 - Ballon Payments (A422)
 ------------------------------------
 
 Mario Guiglini has just sold his hotel
 and purchased a restaurant with the proceeds.
-The cost of the restaurant to Mario is €500,000 and
+The cost of the restaurant to Mario is \text{\euro}500,000 and
 the seller requires a 25 per cent up-front payment.
 Mario is able to pay the up-front payment from the proceeds of the hotel sale.
 He needs to take out a mortgage and
@@ -463,35 +466,35 @@ The last term in the brackets is called the Anniuity factor, A^T_p
 
 ---
 
-> (Anzahlung: 500,000 € * 25 % = 125,000 €)
+> (Anzahlung: 500,000 \text{\euro} * 25 % = 125,000 \text{\euro})
 
 The amount borrows is the value of the restaurant times one minus the down payment, or:
 
-Amount borrowed = 500,000 € (1- .25) = 275.000 €
+Amount borrowed = 500,000 \text{\euro} (1- .25) = 275.000 \text{\euro}
 
 the mothly payments woth ballon payment loab are calculated assuming a longer amortisation schedule, in theis case, 30 years. The payments based on a 30-Year repayment schedule would be:
 
-PVA = 375,000 € = C ({1 - [1/ (1 + 0.09/ 12)]^360} / (0.09 / 12))
+PVA = 375,000 \text{\euro} = C ({1 - [1/ (1 + 0.09/ 12)]^360} / (0.09 / 12))
 
-C = 2922.96 €
+C = 2922.96 \text{\euro}
 
 Now (at time = 8) we need to find the PV of the payments which have not been made. The ballon payment wil lbe:
 
-PVA = 2922.96 € * ((1 - (1 / (1 + 0.09/12))^(22*12)) / (0.09/12))
-PVA = 344657,65 €
+PVA = 2922.96 \text{\euro} * ((1 - (1 / (1 + 0.09/12))^(22*12)) / (0.09/12))
+PVA = 344657,65 \text{\euro}
 
-Alpha: 335500 €
+Alpha: 335500 \text{\euro}
 
 Nachgereichte Ergebnisse:
 
-> C = 2.017,3348 €
-> PVA = 346.352.59 €
+> C = 2.017,3348 \text{\euro}
+> PVA = 346.352.59 \text{\euro}
 
 Exercise 26 - Annuities (4A26)
 ------------------------------
 
 Today, you have become a new mother
-and the British government has given you €250 for your child's trust fund.
+and the British government has given you \text{\euro}250 for your child's trust fund.
 You think it would be a great idea to use this as the basis for saving for your child's future.
 You believe in private schooling and so
 you want to put aside a certain amount each year to pay for your child's
@@ -500,9 +503,9 @@ you want to put aside a certain amount each year to pay for your child's
 - secondary schooling (ages 12-17) and
 - university tuition (ages 18-22).
 
-Private primary schooling costs €7,000 per year and private secondary schooling costs €8,000 per year.
+Private primary schooling costs \text{\euro}7,000 per year and private secondary schooling costs \text{\euro}8,000 per year.
 
-If your child gets into university, the fees and maintenance will be in the region of € 15,000 per year.
+If your child gets into university, the fees and maintenance will be in the region of \text{\euro} 15,000 per year.
 
 Your child will start school five years from now, and you plan to deposit money every year in the trust fund, starting one year from now.
 The annual percentage rate you've been quoted by the government is 6.5 per cent.
@@ -512,22 +515,22 @@ You will make your last deposit when your child enters university.
 
 ---
 
-250 € once
+250 \text{\euro} once
 annualy deposit sarting one year from now
 
 ---
 
 private schooling costs:
-primary school  (5 - 11)    7000 €/year
-secondary school    (12 - 17)   8000 €/year
-university tuitition    (18 - 22)   15000€/year
+primary school  (5 - 11)    7000 \text{\euro}/year
+secondary school    (12 - 17)   8000 \text{\euro}/year
+university tuitition    (18 - 22)   15000\text{\euro}/year
 
 Step 1 Calculate the present calue of primary schopoliing, seconary schooling and university tuition the year before the actitiey starts.
 
 a)  Primary schooling (7 years)
 PV  = C x A^7_0.065
-    = 7000 € * A^7_0.065
-    = 38391.64 €
+    = 7000 \text{\euro} * A^7_0.065
+    = 38391.64 \text{\euro}
 
 b)  Secondary schooling (6 years)
 PV  = C * A^6_0.065
@@ -539,23 +542,23 @@ Step 2 Calculate the present valuze of t primary schooling, secondary schooling 
 
 a)  Primary Schooling
 PV  = 38391,64 / (1.065)^4
-    = 29842,71 €
+    = 29842,71 \text{\euro}
 
 b)  Secpndary schooling
 PV  = 38728,11 / (1.065)^11
-    = 19372,27 €
+    = 19372,27 \text{\euro}
 
 c)  University schooling
 PV  = 51386.98 / (1.065)^17
-    = 17616.10 €
+    = 17616.10 \text{\euro}
 
-Present value of all payments = 29842,71 € + 19372.27 + 17616.10 = 66831.08
+Present value of all payments = 29842,71 \text{\euro} + 19372.27 + 17616.10 = 66831.08
 
-Since you already have 350 € from the government, the amount you need to inest is 66831.08 - 250 € = 66581.08
+Since you already have 350 \text{\euro} from the government, the amount you need to inest is 66831.08 - 250 \text{\euro} = 66581.08
 
-PV  = C ((1/r) - (1 / (r * (1 + r) ^ T)))  = 66581.08 €
+PV  = C ((1/r) - (1 / (r * (1 + r) ^ T)))  = 66581.08 \text{\euro}
     = C (1 / 0.065 - 1 / (0.065 * (1.065^18)))
-C   = 6382.10 €
+C   = 6382.10 \text{\euro}
 
 Exercise 27 - Definition of a bond (5A1)
 ----------------------------------------
@@ -583,7 +586,7 @@ Exercise 29 - Valuing Bond (5A10)
 ---------------------------------
 
 In March 2009 the German freight company Deutsche
-Bahn issued a 10-year bond with face value of € 1,000 and
+Bahn issued a 10-year bond with face value of \text{\euro} 1,000 and
 paying an annual coupon of 4.875 per cent. What is the
 price of the bond if the yield to maturity (YTM) is
 
@@ -607,7 +610,7 @@ is selling at par.
 
 PV = C * A^T_r + F / (1 + r)^T
 
-Where A^T_r is the annuity factor for an annuitiy of 1 € per period for T periods at an interest rate per period of r.
+Where A^T_r is the annuity factor for an annuitiy of 1 \text{\euro} per period for T periods at an interest rate per period of r.
 
 A^T_r = C * [ (1 - (1 / (1 + r)^T) / r) ]
 
@@ -615,7 +618,7 @@ A^T_r = C * [ (1 - (1 / (1 + r)^T) / r) ]
 
 PV = C * A^T_r + (F)/(1+r)^T
 
-where A^T_r is the annuity factor for an annuity of 1 € per period for T periods at an interest rate per period of r.
+where A^T_r is the annuity factor for an annuity of 1 \text{\euro} per period for T periods at an interest rate per period of r.
 
 A^T_r = C [(1 - (1)/(1+r)^T)/(r)]
 
@@ -623,24 +626,24 @@ P = 48,75 * [(1 - (1)/(1 + 0,04)^10)/(0,04)] + (1000)/(1,04)^10 = 1070,97
 
 a)
 
-P = € 48,75 x * A^10_0.04 + 1000 / 1.04)^10
-P = € 1070,97
+P = \text{\euro} 48,75 x * A^10_0.04 + 1000 / 1.04)^10
+P = \text{\euro} 1070,97
 
 b)
 
-P = € 48.75 * A^10_0.05 + 1000 / (1.05)^10
-P = € 990,35
+P = \text{\euro} 48.75 * A^10_0.05 + 1000 / (1.05)^10
+P = \text{\euro} 990,35
 
 c)
 
 P = 
-P = € 685,09
+P = \text{\euro} 685,09
 
 Exercise 30 - Share Values (5A12)
 ---------------------------------
 
 In 2009 DaimlerChrysler had just paid a dividend
-of €2 per share on its equity. The dividends are
+of \text{\euro}2 per share on its equity. The dividends are
 expected to grow at a constant rate of 5 per cent
 per year indefinitely.
 If investors require a 11 per cent return on
@@ -662,23 +665,23 @@ Constant growth: P_0 = (D_1)/(r - g)
 Current price at a constant growth of 5 percent per year indefinitely:
 
 P = Div_1 / (r - g), whereas Div_1 = D_0 (1 + g)
-i.e. Div_1 = 2 (1.05) = € 2.1
+i.e. Div_1 = 2 (1.05) = \text{\euro} 2.1
 
-P = € 2.1 / (0.11 - 0.05) = 35 €
+P = \text{\euro} 2.1 / (0.11 - 0.05) = 35 \text{\euro}
 
                                                                     P_0 -> Div_1
 Price in 3 years:
-    P_3  = P_0(1 + g)3 = 35 € * (1.05)^3 = € 40.52
+    P_3  = P_0(1 + g)3 = 35 \text{\euro} * (1.05)^3 = \text{\euro} 40.52
 
 Price in 15 years:
-    P_15 = P_0 (1 + g)^15 = € 35 * (1.05)^15 = 72.76 €
+    P_15 = P_0 (1 + g)^15 = \text{\euro} 35 * (1.05)^15 = 72.76 \text{\euro}
 
 Exercise 31 - Share Values (5A13)
 ---------------------------------
 
 The next dividend payment from French health food firm Danone will be
-€ 1.12 per share. The dividends are anticipated to maintain a 5 per cent
-growth rate for ever. If Danone shares currently sell for €35.00, what is the
+\text{\euro} 1.12 per share. The dividends are anticipated to maintain a 5 per cent
+growth rate for ever. If Danone shares currently sell for \text{\euro}35.00, what is the
 required return?
 
 ---
@@ -718,7 +721,7 @@ return would the bondholder earn in this case?
 
 PV = C * A^T_r + F / (1 + r)^T
 
-Where A^T_r is the annuity factor for an annuitiy of 1 € per period for T periods at an interest rate per period of r.
+Where A^T_r is the annuity factor for an annuitiy of 1 \text{\euro} per period for T periods at an interest rate per period of r.
 
 A^T_r = C * [ (1 - (1 / (1 + r)^T) / r) ]
 
@@ -728,7 +731,7 @@ The return on the bond is [(P_1 + C) / P_0] - 1
 
 PV = C * A^T_r + (F)/(1+r)^T
 
-where A^T_r is the annuity factor for an annuity of 1 € per period for T periods at an interest rate per period of r.
+where A^T_r is the annuity factor for an annuity of 1 \text{\euro} per period for T periods at an interest rate per period of r.
 
 A^T_r = C [(1 - (1)/(1+r)^T)/(r)]
 
@@ -761,7 +764,7 @@ Exercise 34 - Non-Constant Growth (5A19)
 
 Dylan Bearings is a young start-up company.
 No dividends will be paid on the shares over the next nine years because the firm needs to plough back its earnings to fuel growth.
-The company will pay an € 8 per share dividend in 10 years and will increase the dividend by 6 per cent per year thereafter.
+The company will pay an \text{\euro} 8 per share dividend in 10 years and will increase the dividend by 6 per cent per year thereafter.
 If the required return is 13 per cent, what is the current share price?
 
 ---
@@ -777,12 +780,12 @@ This means that since we will use the dividend in Year 10, we will be finding th
 The equation gives you the PV one period before the first payment. So, the price of the equity in year 9 will be:
 
 P_9 = D_10 / (R - g)
-    = € 8.00 / (0.13 - 0.06) = € 114.29
+    = \text{\euro} 8.00 / (0.13 - 0.06) = \text{\euro} 114.29
 
 The price of the share today is simply the PV of the share price in the future. We simply discound the future share price at the required return.
 
 The price of the share today will be:
-    P_0 = €114.29 / 1.13 ^9 = € 38.04
+    P_0 = \text{\euro}114.29 / 1.13 ^9 = \text{\euro} 38.04
 
 Exercise 35 - Calculating Payback Period and NPV (6A9)
 ------------------------------------------------------
@@ -802,26 +805,26 @@ a) The paybay period is the  time that it takes for the cumlative undiscounted s
 
 ProjectA
 
-Cumulative cash flows year 1: €4000 = €4000
-Cumulative cash flows year 2: €4000 + 5500€ = 9500 € > 5500€
+Cumulative cash flows year 1: \text{\euro}4000 = \text{\euro}4000
+Cumulative cash flows year 2: \text{\euro}4000 + 5500\text{\euro} = 9500 \text{\euro} > 5500\text{\euro}
 The payback period is les than the 2 year cut-off and so project a would be accepted.
 
 ProjectB
 
-Cumulative cash flows year 1: €2500 = €2500
-Cumulative cash flows year 2: €2500 + 1200€ = 3700 €
-Cumulative cash flows year 2: €2500 + 1200€ + 3000€ = 3700 € > 4000€
+Cumulative cash flows year 1: \text{\euro}2500 = \text{\euro}2500
+Cumulative cash flows year 2: \text{\euro}2500 + 1200\text{\euro} = 3700 \text{\euro}
+Cumulative cash flows year 2: \text{\euro}2500 + 1200\text{\euro} + 3000\text{\euro} = 3700 \text{\euro} > 4000\text{\euro}
 The payback period is greater than the 2 year cut-off and so project B would not be accepted.
 
 b) Discount each project's cash flows at 10 percent. Choose the project with the highest NPV.
 
 ProjectA:
-    NPV = -€5500 + €4000/1.10 + 5500€/1.10^2 + 500€/1.10^3
-    NPV = 3057.48 €
+    NPV = -\text{\euro}5500 + \text{\euro}4000/1.10 + 5500\text{\euro}/1.10^2 + 500\text{\euro}/1.10^3
+    NPV = 3057.48 \text{\euro}
 
 ProjectB:
-    NPV = -4000€ + 2500€/1.10 + 1200/1.10^2 + 3000/1.10^3
-    NPV = 1518,407 €
+    NPV = -4000\text{\euro} + 2500\text{\euro}/1.10 + 1200/1.10^2 + 3000/1.10^3
+    NPV = 1518,407 \text{\euro}
 
 The firm should choose Project A since it has a higher NPV than Project B has.
 
@@ -833,21 +836,21 @@ Interpolation zur Bestimmung des Amotisierungszeitraum
 Companies can calculate a more precise value using fractional years.
 To calculate the fractional payback period, find the fraction of year 2’s cash
 flows that is needed for the company to have cumulative undiscounted
-cash flows of €5,000.
+cash flows of \text{\euro}5,000.
 Divide the difference between the initial investment and the
 cumulative undiscounted cash flows as of year 2 by the undiscounted cash
 flow of year 2.
  
-Payback period = 1 + (€5,500 – €4,000) / €5,500
+Payback period = 1 + (\text{\euro}5,500 – \text{\euro}4,000) / \text{\euro}5,500
 Payback period = 1.27
 
 Exercise 36 - Calculating discounted Payback (6A11)
 ----------------------------------------------------
 
-An Investment project has annual cash inflows of € 7.000, € 7.500, € 8.000 and
-€ 8.500 and a discount rate of 10 per cent.
-What is the discounted payback period for these cash flows if the initial cost is € 8.000?
-What if the initial cost is € 13.000? What if it is € 18.000?
+An Investment project has annual cash inflows of \text{\euro} 7.000, \text{\euro} 7.500, \text{\euro} 8.000 and
+\text{\euro} 8.500 and a discount rate of 10 per cent.
+What is the discounted payback period for these cash flows if the initial cost is \text{\euro} 8.000?
+What if the initial cost is \text{\euro} 13.000? What if it is \text{\euro} 18.000?
 
 ---
 
@@ -857,21 +860,21 @@ When we use the discounted payback, we need to find the value of all cash flows 
 
 The value today of the project cash flows for the first 4 years is:
 
-Value today of year 1 cash flow = 7000/1.10^1 = 6363,64 €
-Value today of year 1 cash flow = 7500/1.10^2 = 6198,35 €
-Value today of year 1 cash flow = 8000/1.10^3 = 6010,52 €
-Value today of year 1 cash flow = 8500/1.10^4 = 5805,61 €
+Value today of year 1 cash flow = 7000/1.10^1 = 6363,64 \text{\euro}
+Value today of year 1 cash flow = 7500/1.10^2 = 6198,35 \text{\euro}
+Value today of year 1 cash flow = 8000/1.10^3 = 6010,52 \text{\euro}
+Value today of year 1 cash flow = 8500/1.10^4 = 5805,61 \text{\euro}
 
-Payback period = 1 + (8000 - 6363,64)/6198,35 € = 1,?
+Payback period = 1 + (8000 - 6363,64)/6198,35 \text{\euro} = 1,?
 
 To find the discounted payback, we use these values to find the payback period.
 
-The discounted first year cash flow is 6363,64 €, so the discounted payback for an 8000 € initial cost is:
-Discounted payback = 1 + (€8000 - 6363,64)/6198,35 = 1.26 years
+The discounted first year cash flow is 6363,64 \text{\euro}, so the discounted payback for an 8000 \text{\euro} initial cost is:
+Discounted payback = 1 + (\text{\euro}8000 - 6363,64)/6198,35 = 1.26 years
 
-for an initial cost of 13000€ initial cost of 13000 the discounted payback is:
+for an initial cost of 13000\text{\euro} initial cost of 13000 the discounted payback is:
 
-Discounted payback = 2 + (18000 - 6363.64 - 6198,35) / 6010,52 € = 2.90 years
+Discounted payback = 2 + (18000 - 6363.64 - 6198,35) / 6010,52 \text{\euro} = 2.90 years
 
 We know the initial /* Text fehlt */
 
@@ -880,10 +883,10 @@ Tipp: Erste Aufgabe noch mal dynamisch machen. Dabei müsste ungefähr das selbe
 Exercise 37 - Average Accounting Return (AAR) (6A13)
 ----------------------------------------------------
 
-Bluerock Group has invested € 8000 in a high-tech project lasting 3 years.
+Bluerock Group has invested \text{\euro} 8000 in a high-tech project lasting 3 years.
 
-Deprecation (= Abschreibung) is € 4000, € 2500 and € 1500 in year 1,2 and 3 respectiviely.
-The project generate pre-tax income of € 2000 each year.
+Deprecation (= Abschreibung) is \text{\euro} 4000, \text{\euro} 2500 and \text{\euro} 1500 in year 1,2 and 3 respectiviely.
+The project generate pre-tax income of \text{\euro} 2000 each year.
 
 The pre-tax income already includes the deprecation expense.
 If the tax rate is 25 % what is the projects average accounting return (AAR)?
@@ -894,25 +897,25 @@ If the tax rate is 25 % what is the projects average accounting return (AAR)?
 The book value is the gross investment minus accumulated depreciation.
 
                                     Purchase date   Year I  Year II Year III
-    Gross Investment                8000 €          8000 €  8000 €  8000 €
-    Less accumulated depreciation   0 €             4000 €  6500 €  8000 €
-    = net investment                8000 €          4000 €  1500 €  0€
+    Gross Investment                8000 \text{\euro}          8000 \text{\euro}  8000 \text{\euro}  8000 \text{\euro}
+    Less accumulated depreciation   0 \text{\euro}             4000 \text{\euro}  6500 \text{\euro}  8000 \text{\euro}
+    = net investment                8000 \text{\euro}          4000 \text{\euro}  1500 \text{\euro}  0\text{\euro}
 
 **Second**,Now we can calculate the average book value as:
 
-Average book value = (8000 € + 4000 €+ 1500 € + 0 €) / 4 (years) = 3,375 €
+Average book value = (8000 \text{\euro} + 4000 \text{\euro}+ 1500 \text{\euro} + 0 \text{\euro}) / 4 (years) = 3,375 \text{\euro}
 
 > Tipp: Selber noch mal googlen, wenig informationen zu dieser angelsächsischen Variante vorhanden,
 
 To calculate the average accounting return, wqe must rememeber to use the aftertax average net oncome when calculating the aerage accounting return. So the aerage aftertay income is:
 
 Average aftertax net income = (1 - t_c) Annual pretay net income
-Average aftertax net income = (1 - 0.25) € 2000
-Average aftertax net income = 1500 €
+Average aftertax net income = (1 - 0.25) \text{\euro} 2000
+Average aftertax net income = 1500 \text{\euro}
 
 The average accouhting return is the average after-tax net income divided by the average book value, which is:
 
-Average accounting return = 1500 € / 3,375 €
+Average accounting return = 1500 \text{\euro} / 3,375 \text{\euro}
 Average accounting return = 0.4444 or 44.44 %
 
 Exercise 38 - Calculating IRR (6A14)
@@ -923,19 +926,19 @@ for discount rates of 0, 50 and 100 per cent.
 What is the IRR of the project?
 
     Year            0       1       2
-    Cash Flow       € -7000 € 5000  €20000
+    Cash Flow       \text{\euro} -7000 \text{\euro} 5000  \text{\euro}20000
     
 ---
 
 /* Einzelarbeit */
 
-NpV = -7000 + 5000/(1 + 0) + 20000/(1 + 0)^2) = 18000 €
-NpV = -7000 + 5000/(1 + 0.5) + 20000/(1 + 0.5)^2) = 5222,22 €
-NpV = -7000 + 5000/(1 + 1) + 20000/(1 + 1)^2) = 500 €
+NpV = -7000 + 5000/(1 + 0) + 20000/(1 + 0)^2) = 18000 \text{\euro}
+NpV = -7000 + 5000/(1 + 0.5) + 20000/(1 + 0.5)^2) = 5222,22 \text{\euro}
+NpV = -7000 + 5000/(1 + 1) + 20000/(1 + 1)^2) = 500 \text{\euro}
 
 The IRR is equal to:
 
-NPV = 0 = -7000 + 5000 €/(1 + IRR)^1 + 20000/(1 + IRR)^2
+NPV = 0 = -7000 + 5000 \text{\euro}/(1 + IRR)^1 + 20000/(1 + IRR)^2
 
 Thorough trial and error or solver in an excel spreadsheet, IRR is equal to 108.48 %.
 
@@ -960,7 +963,7 @@ Exercise 40 - Calculating Profitability Index (6A17)
 Suppose the following two independent investment opportunities are available to Greenplain Ltd.
 The appropriate discount rate is 10 per cent.
 
-    Year    Project Alpha (€)   Project Beta (€)
+    Year    Project Alpha (\text{\euro})   Project Beta (\text{\euro})
     0       -500                -2.000
     1       300                 300
     2       700                 1.800
@@ -979,7 +982,7 @@ $PI_{alpha} = [300 \text{\euro} /1.10 + 700 \text{\euro} / 1.10^2 + 600 \text{\e
 
 And for Project Beta the Profitability index is:
 
-$PI_{Beta} = [300€ / 1.10 + 1800 €/1.10^2 + 1700€/1.10^3] / 2000 € = 1.519$
+$PI_{Beta} = [300\text{\euro} / 1.10 + 1800 \text{\euro}/1.10^2 + 1700\text{\euro}/1.10^3] / 2000 \text{\euro} = 1.519$
 
 b) According to the PI, you would accept Project Alpha.
 However, remember the profitability index rule can lead to an incorrrect decision when rannking mutually exlusive projects.
@@ -989,7 +992,7 @@ Exercise 41 - Comparing Investment Criteria (6A24)
 
 The treasurer of Amaro Canned Fruits has projected the cash flows of projects A, B and C as follows:
 
-    Year    Project A (€)   Project B (€)   Project C (€)
+    Year    Project A (\text{\euro})   Project B (\text{\euro})   Project C (\text{\euro})
     0       -100.000        -200.000        -100.000
     1       70.000          130.000         75.000
     2       70.000          60.000          130.000
@@ -1002,15 +1005,15 @@ c) Suppose these three projects are independent.
 Which project(s) should Amaro accept, based on the profitability index rule?
 d) Suppose these projects are mutually exclusive.
 Which project(s) should Amaro accept, based on the profitability index rule?
-e) Suppose Amaro’s budget for these projects is €300.000.
+e) Suppose Amaro’s budget for these projects is \text{\euro}300.000.
 The projects are not dividable. Which project(s) should Amaro accept?
 
 ---
 a) Profitability indexes
 
-PI_ProjectA = [70.000/1.12 + 70.000/1.12^2 ] /  100.000 € = 1.18
-PI_ProjectB = [130.000/1.12 + 130.000/1.12^2] / € = 1.10
-PI_ProjectC = [75.000/1.12 + 60.000/1.12^2] / € = 1.15
+PI_ProjectA = [70.000/1.12 + 70.000/1.12^2 ] /  100.000 \text{\euro} = 1.18
+PI_ProjectB = [130.000/1.12 + 130.000/1.12^2] / \text{\euro} = 1.10
+PI_ProjectC = [75.000/1.12 + 60.000/1.12^2] / \text{\euro} = 1.15
 
 b) Net Present Value
 
@@ -1032,7 +1035,7 @@ scale, we cannot compare the PIs of Projects A and B. However, we can calculate 
 PI of the incremental cash flows of the two projects, which are:
 
 Project     C0          C1      C2
-B-A         -€100,000   €60,000 €60,000
+B-A         -\text{\euro}100,000   \text{\euro}60,000 \text{\euro}60,000
 
 d) When calculating incremental cash flows, remember to subtract
 the cash flows of the project with the smaller initial cash outflow from
@@ -1040,13 +1043,13 @@ those of the project with the larger initial cash outflow. This procedure
 insures that the incremental initial cash outflow will be negative. The
 incremental PI calculation is:
  
-PI(B – A) = [€60,000 / 1.12 + €60,000 / 1.122] / €100,000
+PI(B – A) = [\text{\euro}60,000 / 1.12 + \text{\euro}60,000 / 1.122] / \text{\euro}100,000
 PI(B – A) = 1.014
  
 The company should accept Project B since the PI of the
 incremental cash flows is greater than one.
 
-e) Remember that the NPV is additive across projects. Since we can spend 300.000 € we could take two of the projects. in this case we would take the two projects wih the highest NPVs which are Prject B and PRoject A.
+e) Remember that the NPV is additive across projects. Since we can spend 300.000 \text{\euro} we could take two of the projects. in this case we would take the two projects wih the highest NPVs which are Prject B and PRoject A.
 
 Exercise 42 - Incremental Cash Flows (7A2)
 ------------------------------------------
@@ -1097,8 +1100,8 @@ a different rate. First, we will find the present value of the revenues. The
 revenues in year 1 will be the number of bottles sold, times the price
 per bottle, or:
 
-Aftertax revenue in year 1 in real terms = (2.000.000 x 1.25 €)(1 - 0.28)
-Aftertax revenue in year 1 in real terms = 1.800.000 €
+Aftertax revenue in year 1 in real terms = (2.000.000 x 1.25 \text{\euro})(1 - 0.28)
+Aftertax revenue in year 1 in real terms = 1.800.000 \text{\euro}
 
 Exercise 44 - Equivalent Annual Cost (7A19)
 -------------------------------------------
@@ -1158,10 +1161,10 @@ EAC = £14,072
 Revenues will grow at seven pervet per year in real terms foreeer allty grwoing operteuity fomula, we find the present calue of the revenues ois:
 
 PV of revenues ? C_1/(R-g)
-= 1800000/(0.1 - 0.07) = 60.000.000 €
+= 1800000/(0.1 - 0.07) = 60.000.000 \text{\euro}
 
 The real aftertex costs in year 1 will be:
- Aftertax in year 1 in real terms = 2000 * 0,7 €) (1 - 0.28) = 1.008.000 €
+ Aftertax in year 1 in real terms = 2000 * 0,7 \text{\euro}) (1 - 0.28) = 1.008.000 \text{\euro}
 
 - Zahlungen gleich für immer (Ewige Rente)
 - Zahlungen gleich für bestimmte Zeit (Jede Zahlung einzeln abzinsen, Abzinsungsformel, Barwertfaktor)
@@ -1169,8 +1172,8 @@ The real aftertex costs in year 1 will be:
 
 Costs will grow at five percent per year in real terms forever. applying the growing oertuity formula, we find the present value of the costs is
 
-PV_costs = C_1(R-G) = 1008000€/ (0.10 - 0,05) = 20160000
+PV_costs = C_1(R-G) = 1008000\text{\euro}/ (0.10 - 0,05) = 20160000
 
 Now we can find the value of the firm, which is:
 
-Value_firm = PV of revenues - PV of costs = 60000000 € - 20160000 € = 39840000 €
+Value_firm = PV of revenues - PV of costs = 60000000 \text{\euro} - 20160000 \text{\euro} = 39840000 \text{\euro}
