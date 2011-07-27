@@ -13,8 +13,12 @@ pdf:
 		sed \
 			-e 's/'--------------------------------------------------------------------------------'/\\newpage/g' \
 			-e 's/'€'/\\text{\\euro}/g' \
+			-e 's/'£'/\\textsterling{}/g' \
+			-e 's/'\ \"'/\\glqq\ /g' \
+			-e 's/'\"\ '/\\grqq{\\ }/g' \
 			"`basename $$file`" > "`basename $$file .md`".texEncoded; \
-		markdown2pdf -C ./markdown2pdf.sty -o "`basename $$file .md`".pdf  "`basename $$file .md`".texEncoded; \
+		markdown2pdf -C ./markdown2pdf.sty -o "`basename $$file .md`".pdf "`basename $$file .md`".texEncoded; \
+		rm "`basename $$file .md`".texEncoded; \
 	done
 
 html:
@@ -41,3 +45,6 @@ evince: pdf
 	for file in $(markdowns); do \
 		evince "`basename $$file .md`".pdf; \
 	done
+
+none:
+	python Non-ASCII-finder.py > "`basename $$file .md`".texEncoded; \
